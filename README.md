@@ -53,3 +53,9 @@ This is a simple demonstration of code-llama using ollam toolkits + Gradio.
 
 
 ## Images:
+
+## Gradio UI
+<img src="./images/img.png">
+
+## Ollama Server
+<img src="./images/img_1.png">
